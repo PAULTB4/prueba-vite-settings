@@ -2,7 +2,7 @@ import './style.css'
 import viteLogo from '/vite.svg'
 
 document.querySelector('#app').innerHTML = `
-<h1> Paul marco tb</h1>   
+<h1> TB</h1>   
 <form>
 <label>Nombre</label>
 <input type"email">
